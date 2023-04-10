@@ -1,5 +1,5 @@
 # GamesNow
-Objetivos del proyecto y temática!
+#Objetivos del proyecto y temática
 
 TankoMarks será una aplicación web dirigida a los lectores, principalmente de manga, donde podrán anotar todos los mangas que llevan al día, marcando por qué capítulo van, pudiendo escribir comentarios sobre estos y seleccionando capítulos favoritos.
 
