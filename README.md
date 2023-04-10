@@ -1,10 +1,12 @@
 # GamesNow
-# Objetivos del proyecto y temática
+# Objetivos del proyecto
 
-TankoMarks será una aplicación web dirigida a los lectores, principalmente de manga, donde podrán anotar todos los mangas que llevan al día, marcando por qué capítulo van, pudiendo escribir comentarios sobre estos y seleccionando capítulos favoritos.
+GamesNow tratará de una aplicación mediante la cuál poder comprar diversos juegos y dlcs, en esta aplicación también podrás logearte como usuario para realizar "compras" o bien logearte como administrador para añadir nuevos juegos.
 
-Para ello tendrán que registrarse como usuarios de la plataforma mediante un correo electrónico.
-
-La aplicación tendrá una base de datos con los mangas más conocidos, pero también le presentará al usuario la opción de introducir ellos mismos mangas menos conocidos que también estén leyendo.
+Esta aplicación contará con una base datos donde residiran estos juegos y los usuarios que se van a logear.
 
 Además del rol de usuario, también habrá un rol de administrador que podrá modificar, añadir o eliminar mangas.
+
+# Tecnologías
+
+Para esta aplicación utilizaremos Springboot para la parte de backend y para la parte de frontend utilizaremos html y css ademas utilizare diferentes tecnologias como api rest y JPA para la base de datos
