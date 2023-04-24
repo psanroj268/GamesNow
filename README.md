@@ -10,3 +10,9 @@ Además del rol de usuario, también habrá un rol de administrador que podrá m
 # Tecnologías
 
 Para esta aplicación utilizaremos Springboot para la parte de backend y para la parte de frontend utilizaremos html y css ademas utilizare diferentes tecnologias como api rest y JPA para la base de datos
+
+En el backend usaremos Springboot ya que es la tecnología que he estado usando desde que entre en la dual y la que más se utiliza en la mayoría de las empresas a dia de hoy, también me parece que deja un monton de posibilidades y es bastante cómoda de usar.
+
+# Diagrama ENTIDAD/RELACIÓN
+
+![image](https://user-images.githubusercontent.com/113984517/233948073-934e47c5-0ebb-4d7b-9a12-c5e7a1f2d6bf.png)
