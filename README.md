@@ -18,3 +18,7 @@ En el backend usaremos Springboot ya que es la tecnología que he estado usando 
 ![image](https://user-images.githubusercontent.com/113984517/233948073-934e47c5-0ebb-4d7b-9a12-c5e7a1f2d6bf.png)
 
 Este diagrama es provisional (A medida que se avance el proyecto se cambiaran algunas cosas)
+
+# Video
+
+https://drive.google.com/file/d/18xU-zs9AggJLsFeZ-VAx1zkhMrUYfkub/view?usp=sharing
